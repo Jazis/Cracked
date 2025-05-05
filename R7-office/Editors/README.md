@@ -1,0 +1,1 @@
+Распаковать в 'C:\Program Files\R7-Office\Editors'
